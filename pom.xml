@@ -36,7 +36,7 @@
         <junit-vintage.version>${junit.version}.2</junit-vintage.version>
         <junit-platform.version>1.0.2</junit-platform.version>
         <sping-test-junit5.version>1.0.2</sping-test-junit5.version>
-        <compiler.version>3.0</compiler.version>
+        <compiler.version>3.8.1</compiler.version>
         <jacoco.version>0.7.2.201409121644</jacoco.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <camel.version>2.16.1</camel.version>
