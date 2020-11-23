@@ -428,7 +428,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-pmd-plugin</artifactId>
-                <version>3.6</version>
+                <version>3.14.0</version>
                 <configuration>
                     <failOnViolation>true</failOnViolation>
                     <failurePriority>5</failurePriority>
@@ -475,7 +475,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-pmd-plugin</artifactId>
-                <version>3.6</version>
+                <version>3.14.0</version>
             </plugin>
         </plugins>
     </reporting>
